@@ -1,0 +1,1 @@
+This is a university project about a nim game, including the implementation of the winning strategy. The player plays against the computer. Depending on the difficulty, the computer will either do a random move or make the best one.
